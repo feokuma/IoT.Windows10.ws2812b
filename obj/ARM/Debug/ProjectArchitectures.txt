@@ -1,1 +1,0 @@
-C:\Users\feoku\Development\dotnet-2.2\IoT.Windows10.ws2812b\IoT.Windows10.ws2812b\IoT.Windows10.ws2812b.csproj;arm
